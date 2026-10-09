@@ -1,4 +1,4 @@
-﻿absolute_path,relative_path,output_class
+﻿absolute_path,relative_path,class_label
 F:\NTSE\lab01\dataset\cat\0000.jpg,../lab01/dataset/cat/0000.jpg,cat
 F:\NTSE\lab01\dataset\cat\0001.jpg,../lab01/dataset/cat/0001.jpg,cat
 F:\NTSE\lab01\dataset\cat\0002.jpg,../lab01/dataset/cat/0002.jpg,cat
